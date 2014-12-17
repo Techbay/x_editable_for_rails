@@ -1,6 +1,6 @@
-# XEditableForRails
+# x-editable for rails
 
-TODO: Write a gem description
+[x-editable](https://github.com/vitalets/x-editable) for Rails
 
 ## Installation
 
